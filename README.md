@@ -146,6 +146,10 @@ As Equinox and Solstice conclude their philosophical odyssey, they marvel at the
 
 
 
+https://github.com/user-attachments/assets/5b26b00b-fe39-4a1a-927d-b772020be465
+
+
+
 # Dashboard
 
 
