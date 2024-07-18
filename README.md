@@ -30,6 +30,10 @@
 - *Dr. Elias Nocturne:* The antagonist, leader of the secret organization, a technological genius with sinister plans to control the perception of reality.
 - *Maggie:* An investigative journalist and ally of Equinox and Solstice, who helps publicize their discoveries.
 
+![Default_Genre_Satirical_Comedy_with_elements_of_Science_Fictio_2 (1)](https://github.com/user-attachments/assets/21cd4dcb-f4fa-4850-9e01-42d4ce5f1fed)
+
+
+
 ### Story Arcs:
 
 1. *First Season:* Equinox and Solstice unravel various bizarre events, culminating in the discovery of the secret organization.
