@@ -12,6 +12,9 @@
 
 *Inciting Event:* The series begins with an inexplicable event – a famous monument mysteriously disappears overnight. Equinox and Solstice, who run a podcast discussing conspiracy theories and strange occurrences, decide to investigate on their own.
 
+![Default_Comedic_OpeningEquinox_Solstice_do_you_know_what_an_eq_2](https://github.com/user-attachments/assets/24c830d0-08b9-4744-92de-c346ad075d75)
+
+
 *Story Structure:*
 1. *Comedic Opening:*
    - *Equinox:* "Solstice, do you know what an equinox is?"
