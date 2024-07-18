@@ -173,6 +173,22 @@ Save the script as `app.py`. To run the Streamlit app, use the following command
 streamlit run app.py
 ```
 
+
+
+
+---
+
+Hidden
+
+---
+
+[18-Jul-24 12:26] : Mas é baseado no meu artigo:
+
+https://www.linkedin.com/pulse/exploring-timeless-elegance-existence-philosophical-martins-fagundes-niicf/?trackingId=AKSa0NhgRGejGmrbze%2FjbQ%3D%3D
+[18-Jul-24 12:28] : https://www.nature.com/articles/s41467-020-16013-1?fromPaywallRec=true
+[18-Jul-24 12:29] : https://iopscience.iop.org/article/10.1088/1361-6382/aba4bc
+[18-Jul-24 12:30] : Tem que aplicar esse modelo pra ganhar o Nobel... kkk
+
 This will start a local server and open the Streamlit app in your default web browser. You can interact with the radio button in the sidebar to switch between Equinox and Solstice and visualize their teleportation adventures graphically.
 
 Feel free to expand this dashboard with additional features or enhance the plotting function based on the specific data and adventures you want to showcase!
